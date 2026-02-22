@@ -1,0 +1,54 @@
+name: build
+
+on:
+  push:
+    branches: "*"
+    paths:
+      - "modules/*"
+      - "*nbs*/*"
+      - "notebooks*/*"      
+      - ".github/workflows/build.yml"
+      - "setup.py"
+      - "tox.ini"
+      - "pyproject.toml"
+      
+  # pull_request:
+  #   branches: "*"
+  #   paths:
+  #     - "modules/*"
+  #     - "*nbs*/*"
+  #     - "notebooks*/*"
+      
+jobs:
+  build-n-test-n-coverage:
+    name: Build, test and code coverage
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10.17"]
+    env:
+      OS: ubuntu-latest
+      PYTHON: "3.10.17"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          
+      - name: Install dependencies
+        run: |
+          uv sync --all-extras --dev
+          source .venv/bin/activate
+          uv pip install -e .
+          uv pip install --force-reinstall --no-cache-dir git+https://github.com/rraadd88/roux.git
+          # uv pip install ipykernel
+          # uv run ipython kernel install --user --name=intom
+          ## quick check
+          python -c "import intom.run"
+          python -c "import intom.omics"
+      - name: Run the tests
+        run: uv run tox

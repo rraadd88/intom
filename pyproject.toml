@@ -1,0 +1,84 @@
+[project]
+name = "intom"
+version = "0.1.0"
+description = "Integrative analysis of multi-omics to detect molecular interactions."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "rraadd88", email = "rohanadandage@gmail.com" }
+]
+license = { text = "General Public License v. 3" }
+urls = { "Homepage" = "http://github.com/rraadd88/intom" }
+classifiers = [
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  # "Programming Language :: Python :: 3.11",
+  # "Programming Language :: Python :: 3.12"
+]
+dependencies = [
+    # base
+    "roux @ git+https://github.com/rraadd88/roux.git@master",
+        "argh",
+        "ipykernel>=6.29.5",
+        "jupyter>=1.1.1",
+        "networkx>=3.4.2",
+        "numpy<2",
+        "omegaconf>=2.3.0",
+        "papermill>=2.6.0",
+        "pyarrow>=19.0.1",
+        "tqdm>=4.67.1",
+        "numexpr",
+    "statsmodels==0.14.2",
+    "muon==0.1.7",
+        "mudata==0.3.1",
+            "anndata==0.11.3",
+]
+
+[dependency-groups]
+limma =[
+# limma
+    ## prefer installing using conda/mambda along with r
+    # "rpy2>=3.5.17",
+    "rpy2==3.5.11",
+]
+fast = [
+    "cudf-cu12",
+]
+dev = [
+    "tox",
+    "tox-gh-actions",
+    "pytest",
+    "jupyter",
+    "ipywidgets",
+    "ipykernel",
+    "black",
+    "coveralls == 3.*",
+    "flake8",
+    "isort",
+    "pytest-cov == 2.*",
+    "testbook",
+    "papermill",
+    # "regex",
+    # lazydocs",
+]
+lint = [
+  "ruff"
+]
+
+[project.scripts]
+intom = "intom.run:parser.dispatch"
+
+[tool.black]
+experimental-string-processing = true
+line-length = 120
+skip-string-normalization = true
+
+[tool.isort]
+profile = "black"
+
+# [tool.uv.sources]
+# roux = { git = "https://github.com/rraadd88/roux.git", rev = "master" }
+
+## logs
+# echo "# $(date +"%Y-%m-%d %H:%M:%S") on $(hostname)" >> pyproject.toml;uv tree -d 1 | sed 's/^/# /' >> pyproject.toml

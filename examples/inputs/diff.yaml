@@ -1,0 +1,10 @@
+input_path: inputs/sids.tsv
+output_path: outputs/diff.yaml
+values_path: inputs/freq.tsv
+col_id: t id
+col_group: g id
+cols_value:
+- freq
+- pert
+pms_diff:
+  func: ttest

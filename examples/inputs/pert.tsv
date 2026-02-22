@@ -1,0 +1,2001 @@
+g id	t id	f1	f10	f11	f12	f13	f14	f15	f16	f17	f18	f19	f2	f20	f3	f4	f5	f6	f7	f8	f9
+g1	t1	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g1	t2	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g1	t3																				
+g1	t4	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g1	t5	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g1	t6	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g1	t7	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g1	t8																				
+g1	t9																				
+g1	t10	False	True	False	False	False	True	False	True	False	False	False	False	True	False	True	False	False	True	False	True
+g10	t11	False	False	False	True	True	False	True	True	False	True	True	False	False	False	False	False	True	False	True	True
+g10	t12	False	False	False	True	True	False	True	True	False	True	True	False	False	False	False	False	True	False	True	True
+g10	t13	False	False	False	True	True	False	True	True	False	True	True	False	False	False	False	False	True	False	True	True
+g10	t14																				
+g10	t15																				
+g10	t16	False	False	False	True	True	False	True	True	False	True	True	False	False	False	False	False	True	False	True	True
+g10	t17																				
+g10	t18																				
+g10	t19	False	False	False	True	True	False	True	True	False	True	True	False	False	False	False	False	True	False	True	True
+g10	t20	False	False	False	True	True	False	True	True	False	True	True	False	False	False	False	False	True	False	True	True
+g100	t21	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t22	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t23	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t24	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t25	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t26	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t27																				
+g100	t28	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g100	t29																				
+g100	t30																				
+g100	t31	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	False	True
+g101	t32																				
+g101	t33	False	False	True	False	True	False	False	True	True	True	False	False	False	False	False	False	False	False	False	True
+g101	t34																				
+g101	t35	False	False	True	False	True	False	False	True	True	True	False	False	False	False	False	False	False	False	False	True
+g101	t36																				
+g101	t37	False	False	True	False	True	False	False	True	True	True	False	False	False	False	False	False	False	False	False	True
+g101	t38																				
+g101	t39	False	False	True	False	True	False	False	True	True	True	False	False	False	False	False	False	False	False	False	True
+g101	t40	False	False	True	False	True	False	False	True	True	True	False	False	False	False	False	False	False	False	False	True
+g101	t41	False	False	True	False	True	False	False	True	True	True	False	False	False	False	False	False	False	False	False	True
+g101	t42																				
+g102	t43																				
+g102	t44	False	True	False	False	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True	True
+g102	t45	False	True	False	False	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True	True
+g102	t46																				
+g102	t47																				
+g102	t48	False	True	False	False	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True	True
+g103	t49																				
+g103	t50	False	False	False	False	True	True	False	True	True	False	False	False	True	False	True	False	True	False	False	False
+g103	t51																				
+g103	t52	False	False	False	False	True	True	False	True	True	False	False	False	True	False	True	False	True	False	False	False
+g103	t53	False	False	False	False	True	True	False	True	True	False	False	False	True	False	True	False	True	False	False	False
+g103	t54	False	False	False	False	True	True	False	True	True	False	False	False	True	False	True	False	True	False	False	False
+g103	t55																				
+g103	t56																				
+g103	t57	False	False	False	False	True	True	False	True	True	False	False	False	True	False	True	False	True	False	False	False
+g104	t58	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t59	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t60																				
+g104	t61	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t62	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t63	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t64	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t65	True	True	False	False	True	False	False	False	True	True	False	False	False	False	False	True	True	True	False	True
+g104	t66																				
+g104	t67																				
+g105	t68																				
+g105	t69																				
+g105	t70	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g105	t71	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g105	t72	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g105	t73																				
+g105	t74																				
+g105	t75	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g105	t76	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g105	t77	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g105	t78																				
+g105	t79	False	True	False	False	False	False	False	True	True	False	False	True	False	True	False	False	True	False	True	False
+g106	t80	False	False	True	True	False	True	False	False	False	True	True	True	True	True	False	False	False	False	False	True
+g106	t81	False	False	True	True	False	True	False	False	False	True	True	True	True	True	False	False	False	False	False	True
+g106	t82	False	False	True	True	False	True	False	False	False	True	True	True	True	True	False	False	False	False	False	True
+g106	t83																				
+g106	t84																				
+g106	t85																				
+g106	t86	False	False	True	True	False	True	False	False	False	True	True	True	True	True	False	False	False	False	False	True
+g106	t87																				
+g107	t88	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g107	t89	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g107	t90																				
+g107	t91	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g107	t92	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g107	t93																				
+g107	t94	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g107	t95																				
+g107	t96																				
+g107	t97	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g107	t98																				
+g107	t99	False	False	True	True	False	False	False	False	True	True	False	False	True	True	False	False	True	False	False	False
+g108	t100	True	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False	True	False	True
+g108	t101	True	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False	True	False	True
+g108	t102																				
+g108	t103	True	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False	True	False	True
+g108	t104	True	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False	True	False	True
+g108	t105	True	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False	True	False	True
+g108	t106	True	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False	True	False	True
+g108	t107																				
+g109	t108	False	False	True	False	True	False	False	True	False	False	True	False	False	False	False	True	True	False	False	True
+g109	t109																				
+g109	t110	False	False	True	False	True	False	False	True	False	False	True	False	False	False	False	True	True	False	False	True
+g109	t111	False	False	True	False	True	False	False	True	False	False	True	False	False	False	False	True	True	False	False	True
+g109	t112																				
+g109	t113																				
+g109	t114	False	False	True	False	True	False	False	True	False	False	True	False	False	False	False	True	True	False	False	True
+g109	t115																				
+g11	t116	False	True	False	False	True	False	True	False	True	False	True	True	False	True	False	False	False	False	False	False
+g11	t117																				
+g11	t118	False	True	False	False	True	False	True	False	True	False	True	True	False	True	False	False	False	False	False	False
+g11	t119	False	True	False	False	True	False	True	False	True	False	True	True	False	True	False	False	False	False	False	False
+g11	t120	False	True	False	False	True	False	True	False	True	False	True	True	False	True	False	False	False	False	False	False
+g11	t121																				
+g11	t122	False	True	False	False	True	False	True	False	True	False	True	True	False	True	False	False	False	False	False	False
+g11	t123																				
+g11	t124	False	True	False	False	True	False	True	False	True	False	True	True	False	True	False	False	False	False	False	False
+g110	t125	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t126																				
+g110	t127	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t128																				
+g110	t129	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t130	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t131	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t132	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t133	False	False	True	True	False	True	False	False	False	False	False	False	True	True	True	False	False	False	True	False
+g110	t134																				
+g110	t135																				
+g110	t136																				
+g111	t137	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t138																				
+g111	t139																				
+g111	t140																				
+g111	t141	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t142	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t143	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t144																				
+g111	t145	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t146																				
+g111	t147	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t148	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g111	t149	False	False	True	False	False	False	False	False	False	False	False	False	False	False	True	True	True	True	False	True
+g112	t150																				
+g112	t151	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g112	t152																				
+g112	t153	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g112	t154																				
+g112	t155																				
+g112	t156	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g112	t157	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g112	t158																				
+g112	t159	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g112	t160	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g112	t161	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	True	True	True	False	False
+g113	t162																				
+g113	t163	True	False	False	True	False	True	True	False	False	False	False	True	False	False	True	True	False	True	False	False
+g113	t164																				
+g113	t165	True	False	False	True	False	True	True	False	False	False	False	True	False	False	True	True	False	True	False	False
+g113	t166																				
+g113	t167																				
+g113	t168																				
+g113	t169	True	False	False	True	False	True	True	False	False	False	False	True	False	False	True	True	False	True	False	False
+g113	t170	True	False	False	True	False	True	True	False	False	False	False	True	False	False	True	True	False	True	False	False
+g113	t171	True	False	False	True	False	True	True	False	False	False	False	True	False	False	True	True	False	True	False	False
+g114	t172	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g114	t173																				
+g114	t174																				
+g114	t175																				
+g114	t176	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g114	t177	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g114	t178	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g114	t179	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g114	t180	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g114	t181																				
+g114	t182																				
+g114	t183	False	False	True	False	True	False	False	True	True	False	True	False	True	False	True	True	False	False	False	True
+g115	t184	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t185																				
+g115	t186	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t187																				
+g115	t188	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t189																				
+g115	t190																				
+g115	t191	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t192	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t193	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t194	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t195	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g115	t196																				
+g115	t197																				
+g115	t198	False	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	False	True	True	False
+g116	t199																				
+g116	t200	True	False	True	False	False	True	True	False	False	True	False	False	True	False	False	False	True	False	False	True
+g116	t201	True	False	True	False	False	True	True	False	False	True	False	False	True	False	False	False	True	False	False	True
+g116	t202																				
+g116	t203																				
+g116	t204	True	False	True	False	False	True	True	False	False	True	False	False	True	False	False	False	True	False	False	True
+g116	t205	True	False	True	False	False	True	True	False	False	True	False	False	True	False	False	False	True	False	False	True
+g116	t206	True	False	True	False	False	True	True	False	False	True	False	False	True	False	False	False	True	False	False	True
+g117	t207	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t208	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t209																				
+g117	t210	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t211																				
+g117	t212	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t213																				
+g117	t214	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t215	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t216	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t217	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t218	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g117	t219																				
+g117	t220	False	True	True	False	False	False	True	False	True	False	False	False	True	False	True	False	False	False	True	True
+g118	t221																				
+g118	t222																				
+g118	t223	True	True	True	False	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g118	t224	True	True	True	False	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g118	t225																				
+g118	t226	True	True	True	False	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g118	t227	True	True	True	False	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g118	t228																				
+g119	t229	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t230																				
+g119	t231	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t232																				
+g119	t233																				
+g119	t234	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t235	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t236	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t237	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t238	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t239	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g119	t240																				
+g119	t241	False	True	True	True	False	False	False	True	True	True	False	True	False	False	True	False	False	False	False	False
+g12	t242																				
+g12	t243	True	False	True	False	False	False	False	True	False	False	True	True	False	True	True	True	False	False	False	False
+g12	t244	True	False	True	False	False	False	False	True	False	False	True	True	False	True	True	True	False	False	False	False
+g12	t245																				
+g12	t246																				
+g12	t247	True	False	True	False	False	False	False	True	False	False	True	True	False	True	True	True	False	False	False	False
+g12	t248	True	False	True	False	False	False	False	True	False	False	True	True	False	True	True	True	False	False	False	False
+g120	t249	False	False	False	True	False	False	True	True	False	True	True	False	True	False	False	False	True	True	False	False
+g120	t250	False	False	False	True	False	False	True	True	False	True	True	False	True	False	False	False	True	True	False	False
+g120	t251	False	False	False	True	False	False	True	True	False	True	True	False	True	False	False	False	True	True	False	False
+g120	t252																				
+g120	t253	False	False	False	True	False	False	True	True	False	True	True	False	True	False	False	False	True	True	False	False
+g120	t254																				
+g120	t255	False	False	False	True	False	False	True	True	False	True	True	False	True	False	False	False	True	True	False	False
+g120	t256																				
+g120	t257	False	False	False	True	False	False	True	True	False	True	True	False	True	False	False	False	True	True	False	False
+g120	t258																				
+g121	t259	True	True	True	False	False	True	False	False	True	True	False	False	False	False	False	False	True	True	True	False
+g121	t260																				
+g121	t261	True	True	True	False	False	True	False	False	True	True	False	False	False	False	False	False	True	True	True	False
+g121	t262	True	True	True	False	False	True	False	False	True	True	False	False	False	False	False	False	True	True	True	False
+g121	t263	True	True	True	False	False	True	False	False	True	True	False	False	False	False	False	False	True	True	True	False
+g121	t264	True	True	True	False	False	True	False	False	True	True	False	False	False	False	False	False	True	True	True	False
+g121	t265																				
+g122	t266																				
+g122	t267																				
+g122	t268																				
+g122	t269	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g122	t270	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g122	t271	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g122	t272	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g122	t273	False	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g122	t274																				
+g122	t275																				
+g123	t276	False	False	True	False	True	False	False	True	True	False	True	True	True	False	False	True	False	False	False	True
+g123	t277																				
+g123	t278																				
+g123	t279																				
+g123	t280	False	False	True	False	True	False	False	True	True	False	True	True	True	False	False	True	False	False	False	True
+g123	t281	False	False	True	False	True	False	False	True	True	False	True	True	True	False	False	True	False	False	False	True
+g123	t282	False	False	True	False	True	False	False	True	True	False	True	True	True	False	False	True	False	False	False	True
+g123	t283																				
+g123	t284	False	False	True	False	True	False	False	True	True	False	True	True	True	False	False	True	False	False	False	True
+g123	t285	False	False	True	False	True	False	False	True	True	False	True	True	True	False	False	True	False	False	False	True
+g124	t286	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t287	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t288																				
+g124	t289	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t290																				
+g124	t291	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t292	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t293	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t294																				
+g124	t295	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g124	t296	False	True	True	False	False	True	False	False	True	True	True	True	False	False	False	True	False	False	False	True
+g125	t297																				
+g125	t298	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t299																				
+g125	t300	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t301																				
+g125	t302																				
+g125	t303	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t304	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t305	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t306	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t307	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t308	False	False	False	False	False	True	True	False	True	False	False	False	False	True	True	True	False	True	False	True
+g125	t309																				
+g126	t310	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t311	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t312	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t313	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t314	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t315																				
+g126	t316																				
+g126	t317	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t318	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t319																				
+g126	t320	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t321	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t322																				
+g126	t323	False	True	False	False	True	False	False	True	True	False	True	False	True	False	False	True	False	False	False	True
+g126	t324																				
+g127	t325	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	True	True	False	True	False
+g127	t326	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	True	True	False	True	False
+g127	t327																				
+g127	t328	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	True	True	False	True	False
+g127	t329																				
+g127	t330	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	True	True	False	True	False
+g127	t331	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	True	True	False	True	False
+g127	t332																				
+g127	t333																				
+g127	t334	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	True	True	False	True	False
+g128	t335																				
+g128	t336	False	True	True	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	True	True
+g128	t337	False	True	True	False	False	False	True	True	False	False	False	False	False	False	False	False	False	False	True	True
+g129	t338	False	True	True	True	True	True	False	False	True	False	False	False	True	False	False	True	True	False	False	False
+g129	t339																				
+g129	t340																				
+g129	t341																				
+g129	t342	False	True	True	True	True	True	False	False	True	False	False	False	True	False	False	True	True	False	False	False
+g129	t343	False	True	True	True	True	True	False	False	True	False	False	False	True	False	False	True	True	False	False	False
+g129	t344																				
+g129	t345	False	True	True	True	True	True	False	False	True	False	False	False	True	False	False	True	True	False	False	False
+g129	t346	False	True	True	True	True	True	False	False	True	False	False	False	True	False	False	True	True	False	False	False
+g129	t347	False	True	True	True	True	True	False	False	True	False	False	False	True	False	False	True	True	False	False	False
+g13	t348																				
+g13	t349	False	True	True	False	False	False	False	True	True	False	True	True	True	False	False	True	False	True	False	False
+g13	t350	False	True	True	False	False	False	False	True	True	False	True	True	True	False	False	True	False	True	False	False
+g13	t351																				
+g130	t352																				
+g130	t353	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t354	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t355	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t356																				
+g130	t357	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t358	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t359																				
+g130	t360	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t361																				
+g130	t362																				
+g130	t363	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g130	t364	True	False	False	True	True	True	True	False	True	False	True	False	False	False	False	False	False	False	False	True
+g131	t365	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t366	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t367																				
+g131	t368																				
+g131	t369	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t370																				
+g131	t371																				
+g131	t372																				
+g131	t373	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t374	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t375	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t376	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t377	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t378	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g131	t379																				
+g131	t380	False	True	False	False	True	False	False	False	False	True	False	False	True	True	True	False	False	False	True	True
+g132	t381	False	False	True	False	True	False	True	False	True	True	True	False	True	True	True	False	False	False	False	False
+g132	t382	False	False	True	False	True	False	True	False	True	True	True	False	True	True	True	False	False	False	False	False
+g132	t383	False	False	True	False	True	False	True	False	True	True	True	False	True	True	True	False	False	False	False	False
+g132	t384	False	False	True	False	True	False	True	False	True	True	True	False	True	True	True	False	False	False	False	False
+g132	t385																				
+g132	t386																				
+g132	t387																				
+g132	t388																				
+g133	t389	False	False	False	False	True	False	False	False	False	False	True	True	False	True	True	True	True	True	False	False
+g133	t390	False	False	False	False	True	False	False	False	False	False	True	True	False	True	True	True	True	True	False	False
+g133	t391	False	False	False	False	True	False	False	False	False	False	True	True	False	True	True	True	True	True	False	False
+g133	t392	False	False	False	False	True	False	False	False	False	False	True	True	False	True	True	True	True	True	False	False
+g133	t393																				
+g133	t394	False	False	False	False	True	False	False	False	False	False	True	True	False	True	True	True	True	True	False	False
+g133	t395																				
+g133	t396																				
+g133	t397																				
+g133	t398	False	False	False	False	True	False	False	False	False	False	True	True	False	True	True	True	True	True	False	False
+g134	t399																				
+g134	t400																				
+g134	t401	True	False	True	True	False	True	False	False	True	False	True	False	False	True	False	False	False	False	False	True
+g134	t402	True	False	True	True	False	True	False	False	True	False	True	False	False	True	False	False	False	False	False	True
+g134	t403	True	False	True	True	False	True	False	False	True	False	True	False	False	True	False	False	False	False	False	True
+g134	t404	True	False	True	True	False	True	False	False	True	False	True	False	False	True	False	False	False	False	False	True
+g134	t405																				
+g134	t406																				
+g134	t407																				
+g134	t408	True	False	True	True	False	True	False	False	True	False	True	False	False	True	False	False	False	False	False	True
+g134	t409	True	False	True	True	False	True	False	False	True	False	True	False	False	True	False	False	False	False	False	True
+g135	t410																				
+g135	t411	False	True	False	False	False	False	True	False	True	False	False	False	False	False	True	True	False	True	False	True
+g135	t412	False	True	False	False	False	False	True	False	True	False	False	False	False	False	True	True	False	True	False	True
+g135	t413	False	True	False	False	False	False	True	False	True	False	False	False	False	False	True	True	False	True	False	True
+g135	t414	False	True	False	False	False	False	True	False	True	False	False	False	False	False	True	True	False	True	False	True
+g135	t415																				
+g135	t416	False	True	False	False	False	False	True	False	True	False	False	False	False	False	True	True	False	True	False	True
+g135	t417																				
+g136	t418																				
+g136	t419	False	False	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False	False	False
+g136	t420	False	False	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False	False	False
+g136	t421																				
+g136	t422	False	False	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False	False	False
+g136	t423																				
+g137	t424																				
+g137	t425																				
+g137	t426																				
+g137	t427	False	False	False	False	False	False	True	False	False	True	False	False	True	False	False	True	True	True	False	True
+g137	t428	False	False	False	False	False	False	True	False	False	True	False	False	True	False	False	True	True	True	False	True
+g137	t429																				
+g137	t430	False	False	False	False	False	False	True	False	False	True	False	False	True	False	False	True	True	True	False	True
+g137	t431	False	False	False	False	False	False	True	False	False	True	False	False	True	False	False	True	True	True	False	True
+g137	t432	False	False	False	False	False	False	True	False	False	True	False	False	True	False	False	True	True	True	False	True
+g137	t433	False	False	False	False	False	False	True	False	False	True	False	False	True	False	False	True	True	True	False	True
+g138	t434																				
+g138	t435																				
+g138	t436	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t437	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t438																				
+g138	t439																				
+g138	t440	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t441	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t442	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t443	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t444																				
+g138	t445																				
+g138	t446	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t447	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t448	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g138	t449	False	True	False	False	False	False	False	True	True	False	False	True	False	False	False	True	False	True	True	False
+g139	t450																				
+g139	t451	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	True	True
+g139	t452	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	True	True
+g139	t453																				
+g139	t454	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	True	True
+g139	t455	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	False	False	True	True	True
+g139	t456																				
+g14	t457																				
+g14	t458	True	False	False	True	True	False	True	False	True	False	False	False	False	True	False	False	False	False	True	True
+g14	t459																				
+g14	t460	True	False	False	True	True	False	True	False	True	False	False	False	False	True	False	False	False	False	True	True
+g14	t461																				
+g14	t462	True	False	False	True	True	False	True	False	True	False	False	False	False	True	False	False	False	False	True	True
+g14	t463																				
+g14	t464																				
+g14	t465	True	False	False	True	True	False	True	False	True	False	False	False	False	True	False	False	False	False	True	True
+g14	t466	True	False	False	True	True	False	True	False	True	False	False	False	False	True	False	False	False	False	True	True
+g140	t467	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t468	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t469	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t470	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t471																				
+g140	t472																				
+g140	t473																				
+g140	t474	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t475	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t476	True	True	False	False	False	False	False	False	True	False	False	False	True	False	True	True	False	False	False	True
+g140	t477																				
+g141	t478																				
+g141	t479	True	False	False	False	True	True	False	False	False	True	True	False	False	True	True	False	False	False	False	False
+g141	t480																				
+g141	t481	True	False	False	False	True	True	False	False	False	True	True	False	False	True	True	False	False	False	False	False
+g141	t482	True	False	False	False	True	True	False	False	False	True	True	False	False	True	True	False	False	False	False	False
+g141	t483																				
+g141	t484																				
+g141	t485	True	False	False	False	True	True	False	False	False	True	True	False	False	True	True	False	False	False	False	False
+g141	t486	True	False	False	False	True	True	False	False	False	True	True	False	False	True	True	False	False	False	False	False
+g142	t487	True	False	True	False	False	True	False	False	False	False	True	False	False	True	True	False	False	False	False	True
+g142	t488	True	False	True	False	False	True	False	False	False	False	True	False	False	True	True	False	False	False	False	True
+g142	t489																				
+g142	t490	True	False	True	False	False	True	False	False	False	False	True	False	False	True	True	False	False	False	False	True
+g142	t491																				
+g142	t492																				
+g142	t493																				
+g142	t494	True	False	True	False	False	True	False	False	False	False	True	False	False	True	True	False	False	False	False	True
+g142	t495	True	False	True	False	False	True	False	False	False	False	True	False	False	True	True	False	False	False	False	True
+g142	t496	True	False	True	False	False	True	False	False	False	False	True	False	False	True	True	False	False	False	False	True
+g142	t497																				
+g143	t498																				
+g143	t499																				
+g143	t500	True	False	False	True	True	False	False	True	True	False	True	True	False	True	False	False	False	False	True	False
+g143	t501	True	False	False	True	True	False	False	True	True	False	True	True	False	True	False	False	False	False	True	False
+g143	t502	True	False	False	True	True	False	False	True	True	False	True	True	False	True	False	False	False	False	True	False
+g143	t503	True	False	False	True	True	False	False	True	True	False	True	True	False	True	False	False	False	False	True	False
+g143	t504	True	False	False	True	True	False	False	True	True	False	True	True	False	True	False	False	False	False	True	False
+g144	t505																				
+g144	t506	False	True	True	False	False	False	False	True	True	False	False	True	False	False	False	False	True	True	False	False
+g144	t507																				
+g144	t508																				
+g144	t509	False	True	True	False	False	False	False	True	True	False	False	True	False	False	False	False	True	True	False	False
+g144	t510	False	True	True	False	False	False	False	True	True	False	False	True	False	False	False	False	True	True	False	False
+g144	t511	False	True	True	False	False	False	False	True	True	False	False	True	False	False	False	False	True	True	False	False
+g145	t512	True	True	False	True	False	True	False	True	True	False	False	False	True	False	False	False	False	True	True	False
+g145	t513	True	True	False	True	False	True	False	True	True	False	False	False	True	False	False	False	False	True	True	False
+g145	t514																				
+g145	t515	True	True	False	True	False	True	False	True	True	False	False	False	True	False	False	False	False	True	True	False
+g145	t516																				
+g145	t517																				
+g145	t518	True	True	False	True	False	True	False	True	True	False	False	False	True	False	False	False	False	True	True	False
+g145	t519	True	True	False	True	False	True	False	True	True	False	False	False	True	False	False	False	False	True	True	False
+g145	t520	True	True	False	True	False	True	False	True	True	False	False	False	True	False	False	False	False	True	True	False
+g145	t521																				
+g146	t522																				
+g146	t523																				
+g146	t524	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g146	t525	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g146	t526	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g146	t527	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g146	t528	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g146	t529																				
+g146	t530	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g146	t531																				
+g146	t532	False	False	False	False	False	False	False	True	False	True	True	False	False	True	False	True	True	False	False	True
+g147	t533	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t534																				
+g147	t535																				
+g147	t536	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t537	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t538	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t539	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t540	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t541																				
+g147	t542	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t543	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g147	t544																				
+g147	t545	False	True	False	False	True	False	False	True	True	True	False	True	True	False	False	False	True	False	False	True
+g148	t546																				
+g148	t547																				
+g148	t548	False	False	True	True	False	False	True	False	True	False	False	True	True	False	True	False	False	False	False	True
+g148	t549	False	False	True	True	False	False	True	False	True	False	False	True	True	False	True	False	False	False	False	True
+g148	t550	False	False	True	True	False	False	True	False	True	False	False	True	True	False	True	False	False	False	False	True
+g148	t551																				
+g149	t552	False	True	False	False	False	True	False	False	False	False	False	False	True	True	True	False	True	False	True	False
+g149	t553																				
+g149	t554																				
+g149	t555	False	True	False	False	False	True	False	False	False	False	False	False	True	True	True	False	True	False	True	False
+g149	t556																				
+g149	t557																				
+g149	t558	False	True	False	False	False	True	False	False	False	False	False	False	True	True	True	False	True	False	True	False
+g149	t559	False	True	False	False	False	True	False	False	False	False	False	False	True	True	True	False	True	False	True	False
+g149	t560	False	True	False	False	False	True	False	False	False	False	False	False	True	True	True	False	True	False	True	False
+g15	t561	True	False	False	True	False	False	True	True	True	False	True	False	False	False	False	False	False	False	False	True
+g15	t562																				
+g15	t563	True	False	False	True	False	False	True	True	True	False	True	False	False	False	False	False	False	False	False	True
+g15	t564	True	False	False	True	False	False	True	True	True	False	True	False	False	False	False	False	False	False	False	True
+g15	t565																				
+g15	t566																				
+g15	t567																				
+g15	t568	True	False	False	True	False	False	True	True	True	False	True	False	False	False	False	False	False	False	False	True
+g150	t569	False	True	False	False	True	False	False	False	True	True	True	False	False	True	False	False	True	False	False	True
+g150	t570	False	True	False	False	True	False	False	False	True	True	True	False	False	True	False	False	True	False	False	True
+g150	t571																				
+g150	t572	False	True	False	False	True	False	False	False	True	True	True	False	False	True	False	False	True	False	False	True
+g150	t573																				
+g151	t574																				
+g151	t575	True	True	False	False	False	False	False	False	True	False	False	True	True	False	False	False	False	False	True	False
+g151	t576	True	True	False	False	False	False	False	False	True	False	False	True	True	False	False	False	False	False	True	False
+g151	t577																				
+g151	t578	True	True	False	False	False	False	False	False	True	False	False	True	True	False	False	False	False	False	True	False
+g151	t579																				
+g151	t580	True	True	False	False	False	False	False	False	True	False	False	True	True	False	False	False	False	False	True	False
+g151	t581	True	True	False	False	False	False	False	False	True	False	False	True	True	False	False	False	False	False	True	False
+g152	t582	False	False	True	True	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g152	t583	False	False	True	True	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g152	t584																				
+g152	t585	False	False	True	True	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g152	t586	False	False	True	True	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g152	t587																				
+g152	t588	False	False	True	True	False	False	False	False	False	True	True	False	False	False	True	False	False	False	True	True
+g152	t589																				
+g152	t590																				
+g153	t591																				
+g153	t592	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t593	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t594	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t595	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t596																				
+g153	t597	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t598	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t599																				
+g153	t600	True	True	False	True	False	True	False	False	False	True	False	False	False	False	False	True	True	False	False	True
+g153	t601																				
+g153	t602																				
+g153	t603																				
+g154	t604	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t605	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t606	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t607																				
+g154	t608	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t609	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t610																				
+g154	t611	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t612	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t613																				
+g154	t614	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t615	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t616	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t617																				
+g154	t618																				
+g154	t619	True	True	False	False	False	True	False	True	False	False	True	False	False	True	True	False	False	True	False	False
+g154	t620																				
+g155	t621																				
+g155	t622																				
+g155	t623																				
+g155	t624	True	True	True	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+g155	t625	True	True	True	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+g155	t626	True	True	True	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+g155	t627	True	True	True	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+g155	t628	True	True	True	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False	False	False
+g156	t629																				
+g156	t630	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g156	t631	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g156	t632																				
+g156	t633	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g156	t634	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g156	t635																				
+g156	t636	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g156	t637	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g156	t638																				
+g156	t639	False	False	False	False	True	True	False	False	True	False	True	False	False	True	True	False	False	False	True	False
+g157	t640	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g157	t641	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g157	t642																				
+g157	t643	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g157	t644																				
+g157	t645	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g157	t646	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g157	t647	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g157	t648																				
+g157	t649																				
+g157	t650	False	False	False	False	True	True	True	True	False	True	False	False	False	True	True	False	False	False	False	True
+g158	t651	False	False	False	False	True	True	True	True	False	True	True	False	False	False	False	True	True	False	False	False
+g158	t652	False	False	False	False	True	True	True	True	False	True	True	False	False	False	False	True	True	False	False	False
+g158	t653	False	False	False	False	True	True	True	True	False	True	True	False	False	False	False	True	True	False	False	False
+g158	t654																				
+g158	t655																				
+g158	t656																				
+g158	t657																				
+g158	t658	False	False	False	False	True	True	True	True	False	True	True	False	False	False	False	True	True	False	False	False
+g158	t659	False	False	False	False	True	True	True	True	False	True	True	False	False	False	False	True	True	False	False	False
+g158	t660																				
+g158	t661	False	False	False	False	True	True	True	True	False	True	True	False	False	False	False	True	True	False	False	False
+g158	t662																				
+g159	t663																				
+g159	t664	True	False	True	True	False	True	False	True	False	False	True	True	False	False	False	False	False	False	True	False
+g159	t665																				
+g159	t666	True	False	True	True	False	True	False	True	False	False	True	True	False	False	False	False	False	False	True	False
+g159	t667	True	False	True	True	False	True	False	True	False	False	True	True	False	False	False	False	False	False	True	False
+g159	t668	True	False	True	True	False	True	False	True	False	False	True	True	False	False	False	False	False	False	True	False
+g159	t669	True	False	True	True	False	True	False	True	False	False	True	True	False	False	False	False	False	False	True	False
+g159	t670																				
+g159	t671																				
+g159	t672	True	False	True	True	False	True	False	True	False	False	True	True	False	False	False	False	False	False	True	False
+g159	t673																				
+g159	t674																				
+g16	t675	True	True	False	True	False	False	False	True	False	False	False	False	True	False	False	False	False	False	True	True
+g16	t676																				
+g16	t677	True	True	False	True	False	False	False	True	False	False	False	False	True	False	False	False	False	False	True	True
+g16	t678	True	True	False	True	False	False	False	True	False	False	False	False	True	False	False	False	False	False	True	True
+g16	t679	True	True	False	True	False	False	False	True	False	False	False	False	True	False	False	False	False	False	True	True
+g16	t680																				
+g16	t681	True	True	False	True	False	False	False	True	False	False	False	False	True	False	False	False	False	False	True	True
+g160	t682	True	False	True	False	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	True
+g160	t683	True	False	True	False	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	True
+g160	t684																				
+g160	t685																				
+g160	t686	True	False	True	False	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	True
+g160	t687	True	False	True	False	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	True
+g160	t688																				
+g160	t689																				
+g160	t690	True	False	True	False	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	True
+g160	t691	True	False	True	False	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	True
+g161	t692																				
+g161	t693	False	True	True	True	False	False	False	False	True	True	False	True	False	True	False	False	True	False	False	False
+g161	t694																				
+g161	t695	False	True	True	True	False	False	False	False	True	True	False	True	False	True	False	False	True	False	False	False
+g161	t696	False	True	True	True	False	False	False	False	True	True	False	True	False	True	False	False	True	False	False	False
+g162	t697	False	False	True	False	True	False	False	False	True	False	True	False	False	True	False	True	True	False	False	False
+g162	t698																				
+g162	t699	False	False	True	False	True	False	False	False	True	False	True	False	False	True	False	True	True	False	False	False
+g162	t700																				
+g162	t701	False	False	True	False	True	False	False	False	True	False	True	False	False	True	False	True	True	False	False	False
+g162	t702	False	False	True	False	True	False	False	False	True	False	True	False	False	True	False	True	True	False	False	False
+g162	t703	False	False	True	False	True	False	False	False	True	False	True	False	False	True	False	True	True	False	False	False
+g163	t704																				
+g163	t705	False	False	True	False	False	False	True	True	True	False	True	False	True	False	False	False	False	False	True	False
+g163	t706																				
+g163	t707	False	False	True	False	False	False	True	True	True	False	True	False	True	False	False	False	False	False	True	False
+g163	t708	False	False	True	False	False	False	True	True	True	False	True	False	True	False	False	False	False	False	True	False
+g163	t709	False	False	True	False	False	False	True	True	True	False	True	False	True	False	False	False	False	False	True	False
+g163	t710	False	False	True	False	False	False	True	True	True	False	True	False	True	False	False	False	False	False	True	False
+g163	t711																				
+g163	t712																				
+g164	t713	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t714																				
+g164	t715	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t716	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t717																				
+g164	t718																				
+g164	t719																				
+g164	t720	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t721	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t722	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t723	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t724	False	False	True	False	True	True	False	True	False	False	True	False	False	True	False	False	False	True	False	True
+g164	t725																				
+g165	t726	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t727	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t728	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t729	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t730	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t731																				
+g165	t732	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t733																				
+g165	t734	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t735	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t736																				
+g165	t737																				
+g165	t738	True	True	False	False	False	True	False	False	True	True	False	True	False	False	True	False	False	False	True	False
+g165	t739																				
+g165	t740																				
+g166	t741																				
+g166	t742	True	False	False	False	True	True	False	True	True	False	True	False	False	True	False	True	False	False	False	False
+g166	t743	True	False	False	False	True	True	False	True	True	False	True	False	False	True	False	True	False	False	False	False
+g166	t744	True	False	False	False	True	True	False	True	True	False	True	False	False	True	False	True	False	False	False	False
+g166	t745																				
+g166	t746	True	False	False	False	True	True	False	True	True	False	True	False	False	True	False	True	False	False	False	False
+g166	t747																				
+g166	t748																				
+g166	t749																				
+g166	t750	True	False	False	False	True	True	False	True	True	False	True	False	False	True	False	True	False	False	False	False
+g167	t751	True	False	False	False	False	True	False	True	True	True	False	True	False	False	False	False	False	False	True	False
+g167	t752	True	False	False	False	False	True	False	True	True	True	False	True	False	False	False	False	False	False	True	False
+g167	t753	True	False	False	False	False	True	False	True	True	True	False	True	False	False	False	False	False	False	True	False
+g167	t754	True	False	False	False	False	True	False	True	True	True	False	True	False	False	False	False	False	False	True	False
+g167	t755	True	False	False	False	False	True	False	True	True	True	False	True	False	False	False	False	False	False	True	False
+g167	t756																				
+g167	t757																				
+g167	t758	True	False	False	False	False	True	False	True	True	True	False	True	False	False	False	False	False	False	True	False
+g167	t759																				
+g167	t760																				
+g168	t761	False	False	False	False	False	True	True	False	False	True	True	True	False	False	True	False	True	True	False	False
+g168	t762																				
+g168	t763	False	False	False	False	False	True	True	False	False	True	True	True	False	False	True	False	True	True	False	False
+g168	t764	False	False	False	False	False	True	True	False	False	True	True	True	False	False	True	False	True	True	False	False
+g168	t765																				
+g168	t766																				
+g168	t767	False	False	False	False	False	True	True	False	False	True	True	True	False	False	True	False	True	True	False	False
+g168	t768																				
+g169	t769																				
+g169	t770	True	False	False	False	True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False
+g169	t771	True	False	False	False	True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False
+g169	t772																				
+g169	t773	True	False	False	False	True	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False
+g17	t774																				
+g17	t775	False	True	True	False	False	False	True	False	False	False	True	False	False	False	True	False	True	False	False	True
+g17	t776																				
+g17	t777	False	True	True	False	False	False	True	False	False	False	True	False	False	False	True	False	True	False	False	True
+g17	t778																				
+g17	t779																				
+g17	t780	False	True	True	False	False	False	True	False	False	False	True	False	False	False	True	False	True	False	False	True
+g17	t781	False	True	True	False	False	False	True	False	False	False	True	False	False	False	True	False	True	False	False	True
+g17	t782																				
+g17	t783	False	True	True	False	False	False	True	False	False	False	True	False	False	False	True	False	True	False	False	True
+g17	t784	False	True	True	False	False	False	True	False	False	False	True	False	False	False	True	False	True	False	False	True
+g170	t785	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t786	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t787																				
+g170	t788	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t789																				
+g170	t790	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t791																				
+g170	t792	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t793	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t794	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t795	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g170	t796	True	True	False	False	True	False	False	False	False	False	False	True	False	True	True	True	False	False	False	True
+g171	t797																				
+g171	t798	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t799	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t800																				
+g171	t801	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t802	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t803	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t804	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t805																				
+g171	t806	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g171	t807	False	False	False	False	False	True	False	False	True	True	True	False	True	True	False	False	False	False	False	True
+g172	t808																				
+g172	t809	True	True	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	False	False	False
+g172	t810																				
+g172	t811																				
+g172	t812	True	True	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	False	False	False
+g172	t813	True	True	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	False	False	False
+g172	t814	True	True	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	False	False	False
+g172	t815	True	True	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	False	False	False
+g173	t816																				
+g173	t817	False	True	True	False	True	False	False	False	True	False	False	True	False	False	False	True	False	False	True	False
+g173	t818																				
+g173	t819																				
+g173	t820	False	True	True	False	True	False	False	False	True	False	False	True	False	False	False	True	False	False	True	False
+g173	t821	False	True	True	False	True	False	False	False	True	False	False	True	False	False	False	True	False	False	True	False
+g174	t822	False	True	False	True	True	True	False	True	False	False	True	False	True	False	False	False	False	True	False	True
+g174	t823	False	True	False	True	True	True	False	True	False	False	True	False	True	False	False	False	False	True	False	True
+g174	t824																				
+g174	t825	False	True	False	True	True	True	False	True	False	False	True	False	True	False	False	False	False	True	False	True
+g174	t826	False	True	False	True	True	True	False	True	False	False	True	False	True	False	False	False	False	True	False	True
+g174	t827																				
+g175	t828																				
+g175	t829																				
+g175	t830																				
+g175	t831	False	True	False	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True	True	False
+g175	t832	False	True	False	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True	True	False
+g175	t833																				
+g175	t834	False	True	False	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True	True	False
+g175	t835	False	True	False	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True	True	False
+g176	t836	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g176	t837																				
+g176	t838	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g176	t839																				
+g176	t840																				
+g176	t841	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g176	t842	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g176	t843																				
+g176	t844	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g176	t845	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g176	t846																				
+g176	t847	False	False	True	False	True	False	False	True	True	False	False	False	False	True	True	False	False	True	False	False
+g177	t848	False	True	False	False	True	True	True	False	False	False	False	True	False	True	False	False	False	True	False	False
+g177	t849	False	True	False	False	True	True	True	False	False	False	False	True	False	True	False	False	False	True	False	False
+g177	t850																				
+g177	t851	False	True	False	False	True	True	True	False	False	False	False	True	False	True	False	False	False	True	False	False
+g177	t852																				
+g177	t853																				
+g177	t854	False	True	False	False	True	True	True	False	False	False	False	True	False	True	False	False	False	True	False	False
+g177	t855	False	True	False	False	True	True	True	False	False	False	False	True	False	True	False	False	False	True	False	False
+g177	t856	False	True	False	False	True	True	True	False	False	False	False	True	False	True	False	False	False	True	False	False
+g178	t857	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t858	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t859																				
+g178	t860																				
+g178	t861	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t862	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t863	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t864																				
+g178	t865																				
+g178	t866																				
+g178	t867	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t868	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g178	t869																				
+g178	t870																				
+g178	t871																				
+g178	t872	False	False	False	False	True	False	True	True	True	True	False	False	False	False	False	False	True	False	True	False
+g179	t873																				
+g179	t874	True	False	False	True	True	True	False	False	False	False	False	False	True	True	True	False	False	False	False	False
+g179	t875	True	False	False	True	True	True	False	False	False	False	False	False	True	True	True	False	False	False	False	False
+g179	t876	True	False	False	True	True	True	False	False	False	False	False	False	True	True	True	False	False	False	False	False
+g179	t877																				
+g179	t878																				
+g179	t879																				
+g179	t880	True	False	False	True	True	True	False	False	False	False	False	False	True	True	True	False	False	False	False	False
+g179	t881																				
+g179	t882	True	False	False	True	True	True	False	False	False	False	False	False	True	True	True	False	False	False	False	False
+g18	t883	False	False	False	False	False	False	False	False	True	False	False	True	True	False	True	False	False	True	True	True
+g18	t884	False	False	False	False	False	False	False	False	True	False	False	True	True	False	True	False	False	True	True	True
+g18	t885																				
+g18	t886																				
+g18	t887	False	False	False	False	False	False	False	False	True	False	False	True	True	False	True	False	False	True	True	True
+g18	t888	False	False	False	False	False	False	False	False	True	False	False	True	True	False	True	False	False	True	True	True
+g18	t889																				
+g18	t890																				
+g18	t891	False	False	False	False	False	False	False	False	True	False	False	True	True	False	True	False	False	True	True	True
+g18	t892	False	False	False	False	False	False	False	False	True	False	False	True	True	False	True	False	False	True	True	True
+g180	t893																				
+g180	t894	False	False	True	False	False	False	True	False	False	True	True	True	True	True	False	False	False	False	False	False
+g180	t895	False	False	True	False	False	False	True	False	False	True	True	True	True	True	False	False	False	False	False	False
+g180	t896	False	False	True	False	False	False	True	False	False	True	True	True	True	True	False	False	False	False	False	False
+g180	t897	False	False	True	False	False	False	True	False	False	True	True	True	True	True	False	False	False	False	False	False
+g180	t898																				
+g181	t899																				
+g181	t900	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t901																				
+g181	t902	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t903	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t904																				
+g181	t905	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t906	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t907	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t908																				
+g181	t909																				
+g181	t910	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t911																				
+g181	t912	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g181	t913	False	True	False	False	True	False	False	False	True	False	True	True	False	False	False	True	False	False	False	False
+g182	t914	True	False	False	False	False	True	False	True	False	True	True	False	False	False	False	True	False	True	False	False
+g182	t915																				
+g182	t916																				
+g182	t917	True	False	False	False	False	True	False	True	False	True	True	False	False	False	False	True	False	True	False	False
+g182	t918	True	False	False	False	False	True	False	True	False	True	True	False	False	False	False	True	False	True	False	False
+g182	t919	True	False	False	False	False	True	False	True	False	True	True	False	False	False	False	True	False	True	False	False
+g182	t920																				
+g183	t921	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t922																				
+g183	t923																				
+g183	t924																				
+g183	t925	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t926																				
+g183	t927	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t928	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t929																				
+g183	t930	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t931	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t932	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t933	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t934	False	True	False	False	False	True	False	True	False	True	False	False	True	False	False	False	False	True	False	False
+g183	t935																				
+g184	t936	False	False	False	False	True	False	False	False	True	False	True	False	True	True	True	False	False	False	False	True
+g184	t937	False	False	False	False	True	False	False	False	True	False	True	False	True	True	True	False	False	False	False	True
+g184	t938																				
+g184	t939	False	False	False	False	True	False	False	False	True	False	True	False	True	True	True	False	False	False	False	True
+g184	t940																				
+g184	t941	False	False	False	False	True	False	False	False	True	False	True	False	True	True	True	False	False	False	False	True
+g184	t942																				
+g185	t943																				
+g185	t944	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t945																				
+g185	t946	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t947	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t948	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t949	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t950																				
+g185	t951	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t952																				
+g185	t953	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t954	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g185	t955	False	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False	True	True	True	True
+g186	t956	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g186	t957	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g186	t958	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g186	t959																				
+g186	t960	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g186	t961																				
+g186	t962	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g186	t963	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g186	t964																				
+g186	t965	False	False	True	False	True	False	True	True	True	False	True	False	False	False	False	True	False	True	False	True
+g187	t966	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t967	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t968																				
+g187	t969																				
+g187	t970	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t971	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t972	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t973																				
+g187	t974	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t975																				
+g187	t976																				
+g187	t977	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t978	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g187	t979	False	False	False	False	False	True	True	True	False	True	False	False	False	True	True	False	True	False	False	False
+g188	t980	False	True	False	False	False	True	False	False	True	True	False	True	True	False	False	True	False	False	True	False
+g188	t981	False	True	False	False	False	True	False	False	True	True	False	True	True	False	False	True	False	False	True	False
+g188	t982	False	True	False	False	False	True	False	False	True	True	False	True	True	False	False	True	False	False	True	False
+g188	t983	False	True	False	False	False	True	False	False	True	True	False	True	True	False	False	True	False	False	True	False
+g188	t984																				
+g188	t985																				
+g188	t986	False	True	False	False	False	True	False	False	True	True	False	True	True	False	False	True	False	False	True	False
+g188	t987																				
+g189	t988	False	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	False	False	True	False
+g189	t989	False	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	False	False	True	False
+g189	t990	False	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	False	False	True	False
+g189	t991																				
+g189	t992	False	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	False	False	True	False
+g189	t993	False	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	False	False	True	False
+g189	t994	False	False	False	False	True	False	False	False	False	False	True	False	True	True	False	False	False	False	True	False
+g189	t995																				
+g189	t996																				
+g19	t997																				
+g19	t998	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t999																				
+g19	t1000																				
+g19	t1001	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1002																				
+g19	t1003	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1004	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1005	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1006	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1007	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1008	False	True	True	False	True	True	True	False	True	False	True	False	False	False	False	True	False	True	False	False
+g19	t1009																				
+g19	t1010																				
+g190	t1011	False	False	False	False	False	False	True	False	False	False	True	True	True	True	True	False	False	False	True	False
+g190	t1012																				
+g190	t1013	False	False	False	False	False	False	True	False	False	False	True	True	True	True	True	False	False	False	True	False
+g190	t1014																				
+g190	t1015	False	False	False	False	False	False	True	False	False	False	True	True	True	True	True	False	False	False	True	False
+g190	t1016																				
+g190	t1017	False	False	False	False	False	False	True	False	False	False	True	True	True	True	True	False	False	False	True	False
+g190	t1018	False	False	False	False	False	False	True	False	False	False	True	True	True	True	True	False	False	False	True	False
+g190	t1019																				
+g190	t1020																				
+g191	t1021	False	True	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True	False	True	False
+g191	t1022	False	True	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True	False	True	False
+g191	t1023																				
+g191	t1024																				
+g191	t1025																				
+g191	t1026	False	True	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True	False	True	False
+g191	t1027	False	True	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True	False	True	False
+g191	t1028	False	True	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True	False	True	False
+g191	t1029																				
+g191	t1030																				
+g191	t1031	False	True	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True	False	True	False
+g192	t1032	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1033	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1034																				
+g192	t1035																				
+g192	t1036																				
+g192	t1037	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1038																				
+g192	t1039	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1040	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1041	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1042																				
+g192	t1043	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g192	t1044	False	False	False	False	True	False	False	True	True	True	False	True	False	False	True	False	True	True	False	False
+g193	t1045																				
+g193	t1046	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	True	False	True	False	False
+g193	t1047																				
+g193	t1048	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	True	False	True	False	False
+g193	t1049																				
+g193	t1050	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	True	False	True	False	False
+g193	t1051	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	True	False	True	False	False
+g194	t1052	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1053	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1054																				
+g194	t1055																				
+g194	t1056																				
+g194	t1057	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1058	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1059	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1060	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1061																				
+g194	t1062	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g194	t1063																				
+g194	t1064	False	True	True	False	False	True	False	False	False	False	True	False	True	True	False	True	False	True	False	False
+g195	t1065	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1066	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1067	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1068	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1069	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1070	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1071	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1072																				
+g195	t1073	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1074																				
+g195	t1075																				
+g195	t1076																				
+g195	t1077																				
+g195	t1078	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1079	False	False	True	False	False	False	False	True	False	True	False	True	False	True	True	False	True	False	False	True
+g195	t1080																				
+g196	t1081																				
+g196	t1082	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1083	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1084	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1085																				
+g196	t1086	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1087	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1088	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1089	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1090																				
+g196	t1091	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1092	False	False	False	True	True	False	False	False	False	False	False	True	False	False	True	False	False	True	False	True
+g196	t1093																				
+g197	t1094																				
+g197	t1095	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1096	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1097	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1098	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1099																				
+g197	t1100	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1101	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1102																				
+g197	t1103	False	True	False	True	False	False	True	False	False	False	False	True	True	True	False	True	True	False	False	False
+g197	t1104																				
+g198	t1105	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1106																				
+g198	t1107	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1108																				
+g198	t1109	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1110																				
+g198	t1111	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1112	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1113	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1114	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g198	t1115																				
+g198	t1116																				
+g198	t1117	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	False	True	False
+g199	t1118																				
+g199	t1119																				
+g199	t1120	False	True	False	True	True	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True
+g199	t1121	False	True	False	True	True	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True
+g199	t1122	False	True	False	True	True	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True
+g199	t1123	False	True	False	True	True	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True
+g2	t1124	False	False	True	True	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False
+g2	t1125	False	False	True	True	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False
+g2	t1126																				
+g2	t1127																				
+g2	t1128	False	False	True	True	True	False	False	False	False	True	False	False	False	False	False	False	True	False	False	False
+g20	t1129																				
+g20	t1130	True	False	True	False	False	False	False	False	False	False	True	True	True	False	True	False	False	True	True	False
+g20	t1131																				
+g20	t1132	True	False	True	False	False	False	False	False	False	False	True	True	True	False	True	False	False	True	True	False
+g20	t1133	True	False	True	False	False	False	False	False	False	False	True	True	True	False	True	False	False	True	True	False
+g20	t1134																				
+g20	t1135	True	False	True	False	False	False	False	False	False	False	True	True	True	False	True	False	False	True	True	False
+g20	t1136	True	False	True	False	False	False	False	False	False	False	True	True	True	False	True	False	False	True	True	False
+g200	t1137																				
+g200	t1138																				
+g200	t1139																				
+g200	t1140	False	True	False	False	True	False	False	False	True	True	True	False	False	False	False	False	True	True	True	False
+g200	t1141	False	True	False	False	True	False	False	False	True	True	True	False	False	False	False	False	True	True	True	False
+g200	t1142	False	True	False	False	True	False	False	False	True	True	True	False	False	False	False	False	True	True	True	False
+g21	t1143	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1144	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1145																				
+g21	t1146	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1147	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1148	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1149	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1150																				
+g21	t1151																				
+g21	t1152	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g21	t1153	False	False	False	True	False	True	False	True	True	True	False	False	False	True	False	False	False	True	False	False
+g22	t1154																				
+g22	t1155	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g22	t1156																				
+g22	t1157																				
+g22	t1158	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g22	t1159	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g22	t1160	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g22	t1161																				
+g22	t1162	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g22	t1163	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g22	t1164																				
+g22	t1165																				
+g22	t1166																				
+g22	t1167	False	False	True	False	False	False	True	False	False	False	True	False	True	True	False	True	True	False	False	False
+g23	t1168	False	False	False	True	False	True	False	False	False	True	False	False	True	False	True	True	True	False	False	False
+g23	t1169	False	False	False	True	False	True	False	False	False	True	False	False	True	False	True	True	True	False	False	False
+g23	t1170																				
+g23	t1171	False	False	False	True	False	True	False	False	False	True	False	False	True	False	True	True	True	False	False	False
+g23	t1172	False	False	False	True	False	True	False	False	False	True	False	False	True	False	True	True	True	False	False	False
+g23	t1173																				
+g23	t1174	False	False	False	True	False	True	False	False	False	True	False	False	True	False	True	True	True	False	False	False
+g24	t1175																				
+g24	t1176	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1177	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1178	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1179	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1180	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1181	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1182																				
+g24	t1183	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1184	False	False	False	False	False	True	False	False	False	True	False	False	False	True	True	False	False	False	True	True
+g24	t1185																				
+g25	t1186																				
+g25	t1187	False	True	False	False	True	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True
+g25	t1188																				
+g25	t1189																				
+g25	t1190	False	True	False	False	True	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True
+g25	t1191	False	True	False	False	True	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True
+g25	t1192																				
+g25	t1193	False	True	False	False	True	True	False	False	False	False	True	False	False	False	True	False	False	False	False	True
+g26	t1194	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1195																				
+g26	t1196	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1197	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1198																				
+g26	t1199																				
+g26	t1200	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1201	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1202	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1203	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1204																				
+g26	t1205	False	True	False	True	False	False	False	False	True	True	True	True	True	False	True	False	False	False	True	False
+g26	t1206																				
+g27	t1207	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1208	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1209																				
+g27	t1210	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1211	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1212	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1213	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1214																				
+g27	t1215																				
+g27	t1216	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1217	False	False	False	True	False	False	False	True	True	True	False	False	False	False	False	False	False	False	True	True
+g27	t1218																				
+g28	t1219	False	False	True	False	False	True	True	True	False	False	False	False	True	True	False	False	False	False	False	True
+g28	t1220																				
+g28	t1221																				
+g28	t1222	False	False	True	False	False	True	True	True	False	False	False	False	True	True	False	False	False	False	False	True
+g28	t1223	False	False	True	False	False	True	True	True	False	False	False	False	True	True	False	False	False	False	False	True
+g28	t1224																				
+g28	t1225	False	False	True	False	False	True	True	True	False	False	False	False	True	True	False	False	False	False	False	True
+g28	t1226																				
+g28	t1227	False	False	True	False	False	True	True	True	False	False	False	False	True	True	False	False	False	False	False	True
+g29	t1228	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1229	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1230	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1231																				
+g29	t1232	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1233																				
+g29	t1234																				
+g29	t1235	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1236	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1237	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1238	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1239	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1240																				
+g29	t1241	False	False	True	True	False	False	True	False	True	True	True	False	False	False	True	False	False	False	False	True
+g29	t1242																				
+g29	t1243																				
+g29	t1244																				
+g3	t1245	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1246	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1247																				
+g3	t1248																				
+g3	t1249																				
+g3	t1250	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1251	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1252	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1253	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1254	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g3	t1255	False	False	False	True	False	True	False	True	True	True	True	False	False	False	True	False	False	False	True	False
+g30	t1256	True	True	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	False	False
+g30	t1257	True	True	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	False	False
+g30	t1258																				
+g30	t1259	True	True	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	False	False
+g30	t1260	True	True	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	False	False
+g30	t1261																				
+g31	t1262	False	False	False	False	True	False	True	False	True	True	False	True	False	False	True	False	False	True	True	False
+g31	t1263	False	False	False	False	True	False	True	False	True	True	False	True	False	False	True	False	False	True	True	False
+g31	t1264	False	False	False	False	True	False	True	False	True	True	False	True	False	False	True	False	False	True	True	False
+g31	t1265																				
+g32	t1266	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1267																				
+g32	t1268	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1269	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1270	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1271																				
+g32	t1272																				
+g32	t1273	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1274																				
+g32	t1275	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1276	True	True	False	True	True	True	False	False	False	False	False	False	False	True	False	False	False	True	False	True
+g32	t1277																				
+g32	t1278																				
+g33	t1279	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1280																				
+g33	t1281	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1282	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1283	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1284																				
+g33	t1285																				
+g33	t1286	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1287	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1288																				
+g33	t1289	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1290	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1291																				
+g33	t1292	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g33	t1293	False	True	False	True	True	False	False	True	False	True	False	False	False	False	False	False	False	True	False	False
+g34	t1294	False	False	False	False	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True	True
+g34	t1295																				
+g34	t1296																				
+g34	t1297	False	False	False	False	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True	True
+g34	t1298	False	False	False	False	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True	True
+g34	t1299	False	False	False	False	True	True	False	False	False	True	True	False	False	False	False	False	False	True	True	True
+g35	t1300	False	True	True	True	True	True	True	False	False	False	True	True	False	False	True	False	False	False	False	False
+g35	t1301																				
+g35	t1302	False	True	True	True	True	True	True	False	False	False	True	True	False	False	True	False	False	False	False	False
+g35	t1303																				
+g35	t1304																				
+g35	t1305																				
+g35	t1306	False	True	True	True	True	True	True	False	False	False	True	True	False	False	True	False	False	False	False	False
+g35	t1307	False	True	True	True	True	True	True	False	False	False	True	True	False	False	True	False	False	False	False	False
+g35	t1308	False	True	True	True	True	True	True	False	False	False	True	True	False	False	True	False	False	False	False	False
+g35	t1309	False	True	True	True	True	True	True	False	False	False	True	True	False	False	True	False	False	False	False	False
+g36	t1310																				
+g36	t1311																				
+g36	t1312																				
+g36	t1313	False	True	False	False	False	True	False	True	True	True	False	False	True	True	False	False	False	True	True	False
+g36	t1314	False	True	False	False	False	True	False	True	True	True	False	False	True	True	False	False	False	True	True	False
+g36	t1315	False	True	False	False	False	True	False	True	True	True	False	False	True	True	False	False	False	True	True	False
+g36	t1316	False	True	False	False	False	True	False	True	True	True	False	False	True	True	False	False	False	True	True	False
+g37	t1317	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1318																				
+g37	t1319	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1320																				
+g37	t1321	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1322	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1323																				
+g37	t1324	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1325	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1326	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1327																				
+g37	t1328	True	False	True	False	False	False	False	True	False	True	True	True	False	False	False	False	False	False	False	True
+g37	t1329																				
+g37	t1330																				
+g38	t1331	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1332	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1333	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1334																				
+g38	t1335																				
+g38	t1336	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1337	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1338	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1339	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g38	t1340																				
+g38	t1341	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	False	False	True	False	True
+g39	t1342	False	True	False	False	False	True	False	False	True	False	False	False	True	True	False	False	True	True	False	False
+g39	t1343	False	True	False	False	False	True	False	False	True	False	False	False	True	True	False	False	True	True	False	False
+g39	t1344																				
+g39	t1345	False	True	False	False	False	True	False	False	True	False	False	False	True	True	False	False	True	True	False	False
+g39	t1346																				
+g39	t1347	False	True	False	False	False	True	False	False	True	False	False	False	True	True	False	False	True	True	False	False
+g4	t1348																				
+g4	t1349	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1350																				
+g4	t1351	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1352	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1353																				
+g4	t1354																				
+g4	t1355	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1356	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1357	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1358	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1359	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1360	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1361	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1362																				
+g4	t1363	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g4	t1364																				
+g4	t1365	True	True	False	False	True	False	False	False	False	False	True	True	True	False	False	False	False	True	True	False
+g40	t1366	False	False	False	False	True	True	True	False	False	False	False	False	True	False	False	True	False	True	False	True
+g40	t1367	False	False	False	False	True	True	True	False	False	False	False	False	True	False	False	True	False	True	False	True
+g40	t1368	False	False	False	False	True	True	True	False	False	False	False	False	True	False	False	True	False	True	False	True
+g40	t1369																				
+g40	t1370																				
+g40	t1371																				
+g40	t1372	False	False	False	False	True	True	True	False	False	False	False	False	True	False	False	True	False	True	False	True
+g40	t1373	False	False	False	False	True	True	True	False	False	False	False	False	True	False	False	True	False	True	False	True
+g41	t1374																				
+g41	t1375	True	False	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	True	False	True
+g41	t1376	True	False	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	True	False	True
+g41	t1377	True	False	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	True	False	True
+g41	t1378																				
+g41	t1379	True	False	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	True	False	True
+g41	t1380																				
+g41	t1381																				
+g41	t1382																				
+g41	t1383	True	False	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	True	False	True
+g41	t1384	True	False	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	True	False	True
+g42	t1385																				
+g42	t1386	True	False	True	False	False	False	False	True	True	True	False	True	False	False	False	True	False	True	False	False
+g42	t1387																				
+g42	t1388	True	False	True	False	False	False	False	True	True	True	False	True	False	False	False	True	False	True	False	False
+g42	t1389																				
+g42	t1390	True	False	True	False	False	False	False	True	True	True	False	True	False	False	False	True	False	True	False	False
+g42	t1391																				
+g42	t1392	True	False	True	False	False	False	False	True	True	True	False	True	False	False	False	True	False	True	False	False
+g43	t1393	False	False	False	False	False	True	True	False	False	False	True	False	True	False	False	True	False	True	False	True
+g43	t1394																				
+g43	t1395	False	False	False	False	False	True	True	False	False	False	True	False	True	False	False	True	False	True	False	True
+g43	t1396																				
+g43	t1397	False	False	False	False	False	True	True	False	False	False	True	False	True	False	False	True	False	True	False	True
+g43	t1398	False	False	False	False	False	True	True	False	False	False	True	False	True	False	False	True	False	True	False	True
+g43	t1399																				
+g43	t1400																				
+g43	t1401	False	False	False	False	False	True	True	False	False	False	True	False	True	False	False	True	False	True	False	True
+g43	t1402																				
+g44	t1403	True	True	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+g44	t1404	True	True	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+g44	t1405																				
+g44	t1406																				
+g44	t1407	True	True	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+g44	t1408																				
+g44	t1409	True	True	True	False	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	False
+g45	t1410	True	False	True	False	False	True	False	False	False	False	False	False	False	True	True	True	False	False	True	True
+g45	t1411	True	False	True	False	False	True	False	False	False	False	False	False	False	True	True	True	False	False	True	True
+g45	t1412																				
+g45	t1413	True	False	True	False	False	True	False	False	False	False	False	False	False	True	True	True	False	False	True	True
+g45	t1414																				
+g45	t1415	True	False	True	False	False	True	False	False	False	False	False	False	False	True	True	True	False	False	True	True
+g45	t1416																				
+g46	t1417	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1418	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1419	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1420																				
+g46	t1421																				
+g46	t1422																				
+g46	t1423	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1424	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1425	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1426	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1427	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g46	t1428																				
+g46	t1429	False	False	True	True	False	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False
+g47	t1430	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1431	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1432	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1433	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1434																				
+g47	t1435																				
+g47	t1436	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1437	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1438																				
+g47	t1439	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g47	t1440																				
+g47	t1441	True	False	False	False	True	False	False	False	True	False	True	True	False	True	False	False	False	True	False	False
+g48	t1442	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1443	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1444																				
+g48	t1445																				
+g48	t1446	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1447	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1448	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1449	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1450																				
+g48	t1451	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1452	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g48	t1453																				
+g48	t1454																				
+g48	t1455	False	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	False	False	True	False
+g49	t1456	False	True	False	True	False	True	True	False	False	False	False	False	False	True	False	True	False	False	False	True
+g49	t1457																				
+g49	t1458	False	True	False	True	False	True	True	False	False	False	False	False	False	True	False	True	False	False	False	True
+g49	t1459	False	True	False	True	False	True	True	False	False	False	False	False	False	True	False	True	False	False	False	True
+g49	t1460	False	True	False	True	False	True	True	False	False	False	False	False	False	True	False	True	False	False	False	True
+g49	t1461																				
+g49	t1462	False	True	False	True	False	True	True	False	False	False	False	False	False	True	False	True	False	False	False	True
+g49	t1463																				
+g5	t1464																				
+g5	t1465	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False	False	True	True	False	False
+g5	t1466	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False	False	True	True	False	False
+g5	t1467																				
+g5	t1468																				
+g5	t1469	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False	False	True	True	False	False
+g5	t1470																				
+g5	t1471	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False	False	True	True	False	False
+g5	t1472	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False	False	True	True	False	False
+g5	t1473	False	False	False	True	False	False	False	False	True	False	False	True	False	True	False	False	True	True	False	False
+g50	t1474																				
+g50	t1475																				
+g50	t1476	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1477	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1478	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1479	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1480	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1481	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1482																				
+g50	t1483	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1484	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g50	t1485	True	False	True	False	True	False	True	False	True	True	False	False	False	False	False	True	False	False	False	False
+g51	t1486	False	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	True	False
+g51	t1487	False	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	True	False
+g51	t1488																				
+g51	t1489	False	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	True	False
+g51	t1490																				
+g51	t1491																				
+g51	t1492	False	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	True	False
+g51	t1493	False	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	True	False
+g51	t1494	False	True	False	False	True	False	True	True	False	True	False	True	False	False	True	False	False	False	True	False
+g52	t1495																				
+g52	t1496	False	False	False	False	False	False	False	True	False	True	True	True	False	False	True	False	False	True	True	False
+g52	t1497																				
+g52	t1498	False	False	False	False	False	False	False	True	False	True	True	True	False	False	True	False	False	True	True	False
+g52	t1499																				
+g52	t1500	False	False	False	False	False	False	False	True	False	True	True	True	False	False	True	False	False	True	True	False
+g52	t1501	False	False	False	False	False	False	False	True	False	True	True	True	False	False	True	False	False	True	True	False
+g52	t1502	False	False	False	False	False	False	False	True	False	True	True	True	False	False	True	False	False	True	True	False
+g52	t1503	False	False	False	False	False	False	False	True	False	True	True	True	False	False	True	False	False	True	True	False
+g52	t1504																				
+g53	t1505																				
+g53	t1506	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1507	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1508																				
+g53	t1509	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1510	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1511	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1512																				
+g53	t1513	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1514																				
+g53	t1515	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1516	False	True	False	True	True	False	False	True	True	True	False	False	False	False	False	False	True	False	False	True
+g53	t1517																				
+g54	t1518																				
+g54	t1519	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1520	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1521	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1522																				
+g54	t1523	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1524	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1525	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1526	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1527																				
+g54	t1528	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1529	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1530	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1531																				
+g54	t1532	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1533	True	False	False	False	False	True	False	True	True	False	False	True	False	True	False	True	True	False	False	False
+g54	t1534																				
+g55	t1535	True	False	True	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	False	False
+g55	t1536	True	False	True	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	False	False
+g55	t1537																				
+g55	t1538	True	False	True	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	False	False
+g55	t1539	True	False	True	False	False	True	True	False	True	True	False	False	False	False	True	False	False	False	False	False
+g55	t1540																				
+g55	t1541																				
+g56	t1542	True	False	False	True	True	False	False	True	False	False	False	False	True	True	True	False	False	False	True	False
+g56	t1543	True	False	False	True	True	False	False	True	False	False	False	False	True	True	True	False	False	False	True	False
+g56	t1544																				
+g56	t1545	True	False	False	True	True	False	False	True	False	False	False	False	True	True	True	False	False	False	True	False
+g56	t1546	True	False	False	True	True	False	False	True	False	False	False	False	True	True	True	False	False	False	True	False
+g56	t1547																				
+g56	t1548																				
+g56	t1549																				
+g56	t1550	True	False	False	True	True	False	False	True	False	False	False	False	True	True	True	False	False	False	True	False
+g56	t1551	True	False	False	True	True	False	False	True	False	False	False	False	True	True	True	False	False	False	True	False
+g57	t1552	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g57	t1553	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g57	t1554	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g57	t1555																				
+g57	t1556																				
+g57	t1557	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g57	t1558	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g57	t1559																				
+g57	t1560	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g57	t1561	False	False	False	False	False	True	True	True	True	True	True	True	False	False	False	False	False	True	True	False
+g58	t1562																				
+g58	t1563	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g58	t1564	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g58	t1565	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g58	t1566																				
+g58	t1567																				
+g58	t1568	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g58	t1569	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g58	t1570																				
+g58	t1571																				
+g58	t1572																				
+g58	t1573																				
+g58	t1574	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g58	t1575	True	True	True	False	False	False	False	False	False	True	False	True	True	False	False	True	False	False	True	True
+g59	t1576	False	False	False	True	False	False	True	False	True	False	False	False	False	False	True	False	True	False	True	False
+g59	t1577	False	False	False	True	False	False	True	False	True	False	False	False	False	False	True	False	True	False	True	False
+g59	t1578																				
+g59	t1579																				
+g59	t1580																				
+g59	t1581	False	False	False	True	False	False	True	False	True	False	False	False	False	False	True	False	True	False	True	False
+g59	t1582																				
+g59	t1583	False	False	False	True	False	False	True	False	True	False	False	False	False	False	True	False	True	False	True	False
+g6	t1584	False	True	True	False	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	True
+g6	t1585																				
+g6	t1586																				
+g6	t1587	False	True	True	False	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	True
+g6	t1588	False	True	True	False	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	True
+g6	t1589	False	True	True	False	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	True
+g6	t1590	False	True	True	False	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	True
+g6	t1591	False	True	True	False	False	True	False	False	False	True	False	True	False	False	True	False	False	False	True	True
+g6	t1592																				
+g60	t1593	True	False	True	False	False	True	False	False	False	False	False	False	True	False	True	False	True	False	True	False
+g60	t1594	True	False	True	False	False	True	False	False	False	False	False	False	True	False	True	False	True	False	True	False
+g60	t1595	True	False	True	False	False	True	False	False	False	False	False	False	True	False	True	False	True	False	True	False
+g60	t1596	True	False	True	False	False	True	False	False	False	False	False	False	True	False	True	False	True	False	True	False
+g60	t1597	True	False	True	False	False	True	False	False	False	False	False	False	True	False	True	False	True	False	True	False
+g60	t1598																				
+g60	t1599																				
+g60	t1600																				
+g61	t1601	True	True	False	False	True	True	True	True	False	True	False	False	True	False	False	False	False	False	False	False
+g61	t1602	True	True	False	False	True	True	True	True	False	True	False	False	True	False	False	False	False	False	False	False
+g61	t1603	True	True	False	False	True	True	True	True	False	True	False	False	True	False	False	False	False	False	False	False
+g61	t1604	True	True	False	False	True	True	True	True	False	True	False	False	True	False	False	False	False	False	False	False
+g61	t1605	True	True	False	False	True	True	True	True	False	True	False	False	True	False	False	False	False	False	False	False
+g61	t1606																				
+g61	t1607																				
+g61	t1608																				
+g61	t1609	True	True	False	False	True	True	True	True	False	True	False	False	True	False	False	False	False	False	False	False
+g61	t1610																				
+g62	t1611	True	True	False	False	False	False	True	False	False	True	False	True	False	True	False	True	False	False	True	True
+g62	t1612																				
+g62	t1613	True	True	False	False	False	False	True	False	False	True	False	True	False	True	False	True	False	False	True	True
+g62	t1614	True	True	False	False	False	False	True	False	False	True	False	True	False	True	False	True	False	False	True	True
+g62	t1615	True	True	False	False	False	False	True	False	False	True	False	True	False	True	False	True	False	False	True	True
+g62	t1616	True	True	False	False	False	False	True	False	False	True	False	True	False	True	False	True	False	False	True	True
+g62	t1617	True	True	False	False	False	False	True	False	False	True	False	True	False	True	False	True	False	False	True	True
+g62	t1618																				
+g62	t1619																				
+g63	t1620	False	False	False	True	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	False
+g63	t1621																				
+g63	t1622	False	False	False	True	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	False
+g63	t1623																				
+g63	t1624	False	False	False	True	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	False
+g63	t1625																				
+g63	t1626																				
+g63	t1627	False	False	False	True	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	False
+g63	t1628																				
+g63	t1629	False	False	False	True	False	False	False	False	True	True	False	False	False	False	False	True	True	False	True	False
+g64	t1630	True	False	False	True	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False
+g64	t1631																				
+g64	t1632	True	False	False	True	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False
+g64	t1633																				
+g64	t1634																				
+g64	t1635	True	False	False	True	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False
+g64	t1636	True	False	False	True	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False
+g64	t1637	True	False	False	True	False	True	False	False	False	False	True	True	False	False	False	False	False	False	True	False
+g65	t1638																				
+g65	t1639																				
+g65	t1640	False	False	False	True	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False
+g65	t1641	False	False	False	True	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False
+g65	t1642																				
+g65	t1643	False	False	False	True	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False
+g65	t1644	False	False	False	True	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False
+g65	t1645	False	False	False	True	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False
+g65	t1646																				
+g65	t1647	False	False	False	True	False	False	False	False	False	True	True	False	True	False	True	True	False	True	True	False
+g65	t1648																				
+g66	t1649	False	False	True	True	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True
+g66	t1650	False	False	True	True	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True
+g66	t1651																				
+g66	t1652																				
+g66	t1653	False	False	True	True	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True
+g66	t1654	False	False	True	True	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True
+g66	t1655																				
+g66	t1656	False	False	True	True	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True
+g66	t1657	False	False	True	True	False	True	False	True	False	False	False	True	False	False	False	True	True	False	False	True
+g66	t1658																				
+g67	t1659																				
+g67	t1660	True	False	False	True	True	False	False	False	False	False	False	False	False	False	True	True	True	False	True	False
+g67	t1661																				
+g67	t1662	True	False	False	True	True	False	False	False	False	False	False	False	False	False	True	True	True	False	True	False
+g67	t1663	True	False	False	True	True	False	False	False	False	False	False	False	False	False	True	True	True	False	True	False
+g67	t1664	True	False	False	True	True	False	False	False	False	False	False	False	False	False	True	True	True	False	True	False
+g67	t1665	True	False	False	True	True	False	False	False	False	False	False	False	False	False	True	True	True	False	True	False
+g67	t1666																				
+g67	t1667																				
+g67	t1668																				
+g68	t1669																				
+g68	t1670	True	True	True	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False	False	False
+g68	t1671																				
+g68	t1672	True	True	True	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False	False	False
+g68	t1673	True	True	True	False	True	True	True	False	False	False	True	False	False	False	False	False	True	False	False	False
+g69	t1674	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1675	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1676	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1677																				
+g69	t1678	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1679																				
+g69	t1680																				
+g69	t1681	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1682	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1683	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g69	t1684																				
+g69	t1685																				
+g69	t1686	False	False	False	False	True	True	False	False	False	False	True	True	True	True	False	False	True	True	False	False
+g7	t1687	True	False	False	True	True	True	False	False	False	True	False	True	False	False	False	True	True	False	False	True
+g7	t1688																				
+g7	t1689																				
+g7	t1690	True	False	False	True	True	True	False	False	False	True	False	True	False	False	False	True	True	False	False	True
+g7	t1691	True	False	False	True	True	True	False	False	False	True	False	True	False	False	False	True	True	False	False	True
+g70	t1692																				
+g70	t1693	False	True	True	False	False	True	False	False	False	False	True	True	False	False	False	True	False	False	False	False
+g70	t1694																				
+g70	t1695	False	True	True	False	False	True	False	False	False	False	True	True	False	False	False	True	False	False	False	False
+g70	t1696																				
+g70	t1697																				
+g70	t1698	False	True	True	False	False	True	False	False	False	False	True	True	False	False	False	True	False	False	False	False
+g70	t1699	False	True	True	False	False	True	False	False	False	False	True	True	False	False	False	True	False	False	False	False
+g71	t1700	True	False	False	True	False	False	True	True	True	True	False	False	False	False	True	True	False	False	False	False
+g71	t1701																				
+g71	t1702	True	False	False	True	False	False	True	True	True	True	False	False	False	False	True	True	False	False	False	False
+g71	t1703																				
+g71	t1704	True	False	False	True	False	False	True	True	True	True	False	False	False	False	True	True	False	False	False	False
+g71	t1705																				
+g71	t1706	True	False	False	True	False	False	True	True	True	True	False	False	False	False	True	True	False	False	False	False
+g71	t1707	True	False	False	True	False	False	True	True	True	True	False	False	False	False	True	True	False	False	False	False
+g72	t1708																				
+g72	t1709	False	True	False	False	False	False	True	False	True	False	True	False	False	False	False	True	False	False	True	False
+g72	t1710																				
+g72	t1711																				
+g72	t1712	False	True	False	False	False	False	True	False	True	False	True	False	False	False	False	True	False	False	True	False
+g72	t1713	False	True	False	False	False	False	True	False	True	False	True	False	False	False	False	True	False	False	True	False
+g72	t1714																				
+g72	t1715																				
+g72	t1716	False	True	False	False	False	False	True	False	True	False	True	False	False	False	False	True	False	False	True	False
+g72	t1717	False	True	False	False	False	False	True	False	True	False	True	False	False	False	False	True	False	False	True	False
+g73	t1718	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1719	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1720	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1721	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1722																				
+g73	t1723																				
+g73	t1724	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1725	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1726	True	False	False	False	False	False	False	False	True	False	False	True	False	True	False	False	False	True	True	False
+g73	t1727																				
+g74	t1728	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1729	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1730	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1731	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1732	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1733	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1734																				
+g74	t1735	False	False	False	False	True	True	True	False	True	False	True	False	True	False	False	False	False	False	True	True
+g74	t1736																				
+g75	t1737																				
+g75	t1738	True	False	True	False	False	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False
+g75	t1739																				
+g75	t1740	True	False	True	False	False	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False
+g75	t1741																				
+g75	t1742																				
+g75	t1743	True	False	True	False	False	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False
+g75	t1744	True	False	True	False	False	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False
+g76	t1745	True	False	False	False	False	False	False	False	False	False	False	True	True	False	False	True	True	False	True	True
+g76	t1746																				
+g76	t1747																				
+g76	t1748																				
+g76	t1749	True	False	False	False	False	False	False	False	False	False	False	True	True	False	False	True	True	False	True	True
+g76	t1750	True	False	False	False	False	False	False	False	False	False	False	True	True	False	False	True	True	False	True	True
+g77	t1751	True	False	True	False	False	False	False	False	True	True	True	False	True	False	False	False	False	False	False	True
+g77	t1752																				
+g77	t1753	True	False	True	False	False	False	False	False	True	True	True	False	True	False	False	False	False	False	False	True
+g77	t1754	True	False	True	False	False	False	False	False	True	True	True	False	True	False	False	False	False	False	False	True
+g77	t1755	True	False	True	False	False	False	False	False	True	True	True	False	True	False	False	False	False	False	False	True
+g77	t1756	True	False	True	False	False	False	False	False	True	True	True	False	True	False	False	False	False	False	False	True
+g77	t1757	True	False	True	False	False	False	False	False	True	True	True	False	True	False	False	False	False	False	False	True
+g77	t1758																				
+g77	t1759																				
+g77	t1760																				
+g77	t1761																				
+g78	t1762	False	False	False	True	True	True	False	False	False	False	True	False	True	False	False	True	True	False	False	True
+g78	t1763	False	False	False	True	True	True	False	False	False	False	True	False	True	False	False	True	True	False	False	True
+g78	t1764	False	False	False	True	True	True	False	False	False	False	True	False	True	False	False	True	True	False	False	True
+g78	t1765																				
+g78	t1766	False	False	False	True	True	True	False	False	False	False	True	False	True	False	False	True	True	False	False	True
+g78	t1767	False	False	False	True	True	True	False	False	False	False	True	False	True	False	False	True	True	False	False	True
+g78	t1768																				
+g78	t1769	False	False	False	True	True	True	False	False	False	False	True	False	True	False	False	True	True	False	False	True
+g79	t1770																				
+g79	t1771	True	False	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	True	False	False
+g79	t1772	True	False	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	True	False	False
+g79	t1773	True	False	False	False	False	True	True	True	False	True	True	True	False	False	False	False	True	True	False	False
+g79	t1774																				
+g8	t1775																				
+g8	t1776																				
+g8	t1777	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g8	t1778	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g8	t1779	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g8	t1780																				
+g8	t1781	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g8	t1782	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g8	t1783																				
+g8	t1784	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g8	t1785	True	True	False	True	False	False	False	False	False	False	False	False	False	False	False	True	False	True	True	True
+g80	t1786	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1787	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1788																				
+g80	t1789	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1790	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1791																				
+g80	t1792	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1793	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1794	False	True	False	True	False	False	False	False	True	False	False	True	False	True	True	True	False	True	False	True
+g80	t1795																				
+g80	t1796																				
+g81	t1797																				
+g81	t1798	True	True	False	False	True	False	True	False	False	True	False	False	True	True	True	False	False	False	False	False
+g81	t1799	True	True	False	False	True	False	True	False	False	True	False	False	True	True	True	False	False	False	False	False
+g81	t1800																				
+g81	t1801	True	True	False	False	True	False	True	False	False	True	False	False	True	True	True	False	False	False	False	False
+g81	t1802																				
+g81	t1803	True	True	False	False	True	False	True	False	False	True	False	False	True	True	True	False	False	False	False	False
+g81	t1804	True	True	False	False	True	False	True	False	False	True	False	False	True	True	True	False	False	False	False	False
+g81	t1805																				
+g82	t1806	False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	True	False	True
+g82	t1807																				
+g82	t1808																				
+g82	t1809	False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	True	False	True
+g82	t1810	False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	True	False	True
+g82	t1811																				
+g82	t1812	False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	True	False	True
+g82	t1813																				
+g82	t1814	False	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	True	False	True
+g83	t1815																				
+g83	t1816	False	False	False	False	True	False	False	True	False	True	True	False	True	False	True	True	False	True	False	False
+g83	t1817																				
+g83	t1818	False	False	False	False	True	False	False	True	False	True	True	False	True	False	True	True	False	True	False	False
+g83	t1819																				
+g83	t1820	False	False	False	False	True	False	False	True	False	True	True	False	True	False	True	True	False	True	False	False
+g83	t1821	False	False	False	False	True	False	False	True	False	True	True	False	True	False	True	True	False	True	False	False
+g83	t1822																				
+g83	t1823	False	False	False	False	True	False	False	True	False	True	True	False	True	False	True	True	False	True	False	False
+g84	t1824																				
+g84	t1825	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1826	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1827	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1828	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1829	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1830	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1831	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1832																				
+g84	t1833	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1834																				
+g84	t1835	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1836	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1837	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g84	t1838	False	False	True	True	True	False	False	False	True	False	False	False	True	False	True	False	True	False	False	False
+g85	t1839																				
+g85	t1840	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	True	False	True	False	False
+g85	t1841	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	True	False	True	False	False
+g85	t1842	False	True	False	False	False	True	False	False	True	False	False	False	False	True	False	True	False	True	False	False
+g86	t1843	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1844	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1845																				
+g86	t1846	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1847																				
+g86	t1848	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1849	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1850	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1851	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1852																				
+g86	t1853																				
+g86	t1854	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1855	True	False	True	True	True	False	True	False	False	False	False	True	False	False	False	False	True	True	True	False
+g86	t1856																				
+g87	t1857																				
+g87	t1858	True	True	False	False	True	True	False	True	False	False	False	True	True	False	True	False	False	False	False	False
+g87	t1859	True	True	False	False	True	True	False	True	False	False	False	True	True	False	True	False	False	False	False	False
+g87	t1860																				
+g87	t1861	True	True	False	False	True	True	False	True	False	False	False	True	True	False	True	False	False	False	False	False
+g87	t1862	True	True	False	False	True	True	False	True	False	False	False	True	True	False	True	False	False	False	False	False
+g87	t1863																				
+g87	t1864	True	True	False	False	True	True	False	True	False	False	False	True	True	False	True	False	False	False	False	False
+g87	t1865																				
+g88	t1866	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1867																				
+g88	t1868																				
+g88	t1869																				
+g88	t1870	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1871	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1872																				
+g88	t1873	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1874																				
+g88	t1875	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1876	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1877	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1878																				
+g88	t1879	False	False	False	False	False	True	False	True	False	False	False	True	True	True	False	False	True	False	True	False
+g88	t1880																				
+g89	t1881																				
+g89	t1882																				
+g89	t1883	False	False	True	True	True	False	False	False	True	True	False	True	False	False	True	False	False	False	False	True
+g89	t1884																				
+g89	t1885																				
+g89	t1886	False	False	True	True	True	False	False	False	True	True	False	True	False	False	True	False	False	False	False	True
+g89	t1887	False	False	True	True	True	False	False	False	True	True	False	True	False	False	True	False	False	False	False	True
+g89	t1888	False	False	True	True	True	False	False	False	True	True	False	True	False	False	True	False	False	False	False	True
+g9	t1889	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g9	t1890	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g9	t1891																				
+g9	t1892	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g9	t1893																				
+g9	t1894	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g9	t1895																				
+g9	t1896	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g9	t1897																				
+g9	t1898	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g9	t1899	True	False	True	False	False	False	True	False	True	True	True	False	True	True	False	False	False	False	False	False
+g90	t1900	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1901	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1902																				
+g90	t1903	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1904	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1905	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1906	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1907																				
+g90	t1908	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1909																				
+g90	t1910	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1911	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g90	t1912																				
+g90	t1913																				
+g90	t1914	False	False	True	True	False	False	True	True	False	True	False	False	False	True	False	True	False	False	False	False
+g91	t1915	False	False	True	False	False	False	True	False	True	True	False	False	False	True	True	False	True	False	False	False
+g91	t1916	False	False	True	False	False	False	True	False	True	True	False	False	False	True	True	False	True	False	False	False
+g91	t1917	False	False	True	False	False	False	True	False	True	True	False	False	False	True	True	False	True	False	False	False
+g91	t1918																				
+g91	t1919	False	False	True	False	False	False	True	False	True	True	False	False	False	True	True	False	True	False	False	False
+g91	t1920	False	False	True	False	False	False	True	False	True	True	False	False	False	True	True	False	True	False	False	False
+g91	t1921	False	False	True	False	False	False	True	False	True	True	False	False	False	True	True	False	True	False	False	False
+g91	t1922																				
+g91	t1923																				
+g92	t1924	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	True	True	True	False
+g92	t1925	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	True	True	True	False
+g92	t1926	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	True	True	True	False
+g92	t1927	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	True	True	True	False
+g92	t1928																				
+g92	t1929																				
+g92	t1930	True	False	False	False	False	False	False	False	True	False	True	False	False	False	False	False	True	True	True	False
+g92	t1931																				
+g93	t1932																				
+g93	t1933	False	False	False	False	True	False	True	True	True	True	True	False	False	False	False	True	False	True	True	False
+g93	t1934																				
+g93	t1935																				
+g93	t1936																				
+g93	t1937	False	False	False	False	True	False	True	True	True	True	True	False	False	False	False	True	False	True	True	False
+g93	t1938	False	False	False	False	True	False	True	True	True	True	True	False	False	False	False	True	False	True	True	False
+g93	t1939	False	False	False	False	True	False	True	True	True	True	True	False	False	False	False	True	False	True	True	False
+g93	t1940	False	False	False	False	True	False	True	True	True	True	True	False	False	False	False	True	False	True	True	False
+g94	t1941	True	True	False	True	False	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False
+g94	t1942	True	True	False	True	False	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False
+g94	t1943																				
+g94	t1944																				
+g94	t1945	True	True	False	True	False	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False
+g94	t1946																				
+g94	t1947	True	True	False	True	False	True	False	False	False	False	False	False	True	False	False	False	True	False	False	False
+g95	t1948																				
+g95	t1949	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g95	t1950																				
+g95	t1951																				
+g95	t1952	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g95	t1953	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g95	t1954	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g95	t1955																				
+g95	t1956																				
+g95	t1957	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g95	t1958	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g95	t1959	False	False	False	False	True	True	False	False	False	False	False	False	True	True	True	False	False	True	True	False
+g96	t1960																				
+g96	t1961	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1962																				
+g96	t1963	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1964	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1965	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1966																				
+g96	t1967	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1968	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1969																				
+g96	t1970	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g96	t1971	True	False	False	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	False	True
+g97	t1972	True	False	False	False	True	False	False	False	False	False	True	True	True	False	False	True	False	False	False	True
+g97	t1973																				
+g97	t1974	True	False	False	False	True	False	False	False	False	False	True	True	True	False	False	True	False	False	False	True
+g97	t1975	True	False	False	False	True	False	False	False	False	False	True	True	True	False	False	True	False	False	False	True
+g97	t1976																				
+g97	t1977																				
+g97	t1978																				
+g97	t1979																				
+g97	t1980	True	False	False	False	True	False	False	False	False	False	True	True	True	False	False	True	False	False	False	True
+g97	t1981	True	False	False	False	True	False	False	False	False	False	True	True	True	False	False	True	False	False	False	True
+g98	t1982	False	False	True	False	True	True	False	False	False	False	False	False	True	True	False	True	False	True	False	False
+g98	t1983																				
+g98	t1984																				
+g98	t1985																				
+g98	t1986	False	False	True	False	True	True	False	False	False	False	False	False	True	True	False	True	False	True	False	False
+g98	t1987																				
+g98	t1988	False	False	True	False	True	True	False	False	False	False	False	False	True	True	False	True	False	True	False	False
+g98	t1989	False	False	True	False	True	True	False	False	False	False	False	False	True	True	False	True	False	True	False	False
+g99	t1990																				
+g99	t1991																				
+g99	t1992																				
+g99	t1993	False	False	False	True	True	True	False	False	False	False	True	False	False	True	False	True	False	False	True	False
+g99	t1994	False	False	False	True	True	True	False	False	False	False	True	False	False	True	False	True	False	False	True	False
+g99	t1995	False	False	False	True	True	True	False	False	False	False	True	False	False	True	False	True	False	False	True	False
+g99	t1996	False	False	False	True	True	True	False	False	False	False	True	False	False	True	False	True	False	False	True	False
+g99	t1997	False	False	False	True	True	True	False	False	False	False	True	False	False	True	False	True	False	False	True	False
+g99	t1998																				
+g99	t1999	False	False	False	True	True	True	False	False	False	False	True	False	False	True	False	True	False	False	True	False
+g99	t2000																				

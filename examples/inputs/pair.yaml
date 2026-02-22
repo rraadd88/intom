@@ -1,0 +1,13 @@
+input_path: inputs/tids.tsv
+output_path: outputs/pair.yaml
+col_id: t id
+col_group: g id
+mod_names:
+- freq
+- pert
+values_path: inputs/mods.h5mu
+pairs_path: inputs/tids_sim.tsv
+drop_ids_path: inputs/drop_ids.tsv
+drop_ids_ref_path: inputs/drop_ids_ref.tsv
+kws_pre:
+  corr_min: 0.1
