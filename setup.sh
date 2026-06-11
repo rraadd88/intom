@@ -30,10 +30,9 @@ python -m ipykernel install --user --name ${kernel} --display-name ${kernel};
 echo $com
 
 ## R kernel
-
 com="
 $pm install -c r r-essentials r-base notebook r-irkernel r-repr r-irdisplay r-pbdzmq r-devtools r-biocmanager --channel-priority flexible -y;
-$pm install bioconda::bioconductor-limma -y;
+$pm install bioconda::bioconductor-limma=3.62.1 -y;
 R -e \"IRkernel::installspec(name='${kernel_r}',displayname='${kernel_r}')\";
 "
 echo $com

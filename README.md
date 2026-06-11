@@ -8,8 +8,11 @@
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/intom.svg?style=for-the-badge)](https://github.com/rraadd88/intom/issues)</a>
 
 <img width="781" height="306" alt="image" src="https://github.com/user-attachments/assets/c102c51f-057c-4c24-8dd2-516296ef89c9" />
+Schematic with the terminology used in the description below.
 
 ## Usage
+
+Following are the instructions to run `intom`.
 
 ### Using perturbational data directly
 
@@ -76,7 +79,7 @@
     
 </details>
 
-### (Optional) Pre-processing
+### Pre-processing (Optional, might be needed to run on your data)  
 
     intom pair --input-path "inputs/tids.tsv" --output-path "outputs/pair_cli.yaml" --col-id "t id" --col-group "g id" --mod-names '["freq", "pert"]' --values-path "inputs/mods.h5mu" --pairs-path "inputs/tids_sim.tsv" --drop-ids-path "inputs/drop_ids.tsv" --drop-ids-ref-path "inputs/drop_ids_ref.tsv" --kws-pre '{"corr_min": 0.1}'
 
@@ -145,17 +148,74 @@ To use with limma (recommended), refer to [setup.sh](./setup.sh)
     uv sync
     uv pip install .
 
+Tested on Ubuntu 24.04. Install time on a "normal" desktop computer should be ~1min.
+
+## Example
+
+**Input format**
+
+'Comparison file' containing design of the comparisons e.g. `examples/inputs/sids.tsv`
+
+Column description:
+
+    g id                            Group ID
+    ids                             Skipping  entities to compare (; separated if multiple)
+    ids pert                        Perturbed entities (; separated if multiple)
+    comparison                      Perturbed samples labeled as 'test' or Reference samples labeled as 'ref' 
+    sample id                       Sample id
+
+Values file containing counts or frequencies e.g. `examples/inputs/freq.tsv`
+
+Column description:
+
+    g id                            Group ID
+    t id                            Entity ID
+    rest of the columns: Sample ids
+
+**Processing**
+
+After the Installation,
+
+```bash
+intom diff --input-path inputs/diff.yaml
+```
+
+Expected run time: On a "normal" desktop computer should be ~5min.
+
+**Expected output**
+
+Output directory structure:
+
+    diff.yaml                       Contains paths to the output files 
+    ├── 01_backup_upregulation.pqt  Differential expression (DE)
+    ├── 02_backup_compensation.pqt  Compensation scores
+    └── 03_robust.pqt               Robustness scores
+
+The main output file is `03_robust.pqt` 
+
+Column description
+
+    g id                            Group ID
+    ids                             Skipping  entities
+    ids pert                        Perturbed entities
+    samples ref                     Perturbed samples
+    samples test                    Reference samples
+    P                               DE P-value
+    Q                               DE FDR-corrected P-value (Benjamini-Hochberg) 
+    LFC                             DE Log2 Fold Change ("Upregulation" score)
+    compensation for sim ids        Compensation score
+    robustness                      Robustness score
+
 ## Citation
     
-    @article{dandage_2026a,
-    title = {Recursive mutational robustness in cancer through intra- and intergenic compensation},
+    @article {Dandage2026.05.26.727768,
+        author = {Dandage, Rohan and Hernandez-Corchado, Aldo and Madrigal, Ariel and Namini, Arsham Mikaeili and Wang, Jichen and Choi, Benedict and Goodarzi, Hani and Najafabadi, Hamed S.},
+        title = {Recursive mutational robustness in cancer through intra- and inter-genic compensation},
+        elocation-id = {2026.05.26.727768},
+        year = {2026},
+        doi = {10.64898/2026.05.26.727768},
+        publisher = {Cold Spring Harbor Laboratory},
+        URL = {https://www.biorxiv.org/content/early/2026/05/28/2026.05.26.727768},
+        eprint = {https://www.biorxiv.org/content/early/2026/05/28/2026.05.26.727768.full.pdf},
+        journal = {bioRxiv}
     }
-
-<!--
-    author       = {Dandage, Rohan  AND ..},    
-    month        = ,
-    year         = 2026,
-    publisher    = {},
-    doi          = {},
-    url          = {https://doi.org/},
-    -->
